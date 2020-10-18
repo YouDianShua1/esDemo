@@ -1,0 +1,6 @@
+elastic-search:
+  clusterName: elasticsearch
+  hostName: 172.18.19.36
+  port: 9200
+  indices: customer
+  type: _doc
